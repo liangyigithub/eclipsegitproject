@@ -5,6 +5,6 @@ package demo;
 public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("hello world123456");
-		System.out.println("yyyyy");
+		System.out.println("kkkk");
 	}
 }

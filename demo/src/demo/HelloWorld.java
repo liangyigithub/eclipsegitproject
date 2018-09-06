@@ -13,7 +13,7 @@ public class HelloWorld {
 		String str = "  000019800  ";
 		System.out.println(str.replaceAll("^(\\s*)(0*)","").trim());
 		 
-
+//jubu
 		
 	}
 }
